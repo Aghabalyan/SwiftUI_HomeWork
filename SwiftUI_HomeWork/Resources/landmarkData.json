@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Տաթևի վանք",
+        "category": "Rivers",
+        "city": "Սյունիք",
+        "state": "Հայաստան",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Joshua Tree National Park",
+        
+        "coordinates": {
+            "longitude": 46.2491192,
+            "latitude": 39.3794012
+        },
+        "imageName": "Տաթևի_վանք"
+    },
+    {
+        "name": "Գառնիի տաճար",
+        "category": "Lakes",
+        "city": "Կոտայքի",
+        "state": "Հայաստան",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": 44.7301031,
+            "latitude": 40.1125894
+        },
+        "imageName": "Գառնիի_Տաճար"
+
+    }
+]
